@@ -1,0 +1,22 @@
+图书馆 textbook
+借 textbook
+词典 textbook
+还 textbook
+灯 textbook
+
+会议 textbook
+结束 textbook
+忘记 textbook
+空调 textbook
+关 textbook
+地铁 textbook
+
+双 textbook
+筷子 textbook
+啤酒 textbook
+口 textbook
+瓶子 textbook
+
+笔记本 textbook
+电子邮件 textbook
+习惯 textbook

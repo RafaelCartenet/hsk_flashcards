@@ -1,0 +1,33 @@
+家具 textbook 5.1
+沙发 textbook 5.1
+打折 textbook 5.1
+价格 textbook 5.1
+质量 textbook 5.1
+肯定 textbook 5.1
+流行 textbook 5.1
+
+顺便 textbook 5.1
+台 textbook 5.1
+光 textbook 5.1
+实在 textbook 5.1
+制冷 textbook 5.1
+效果 textbook 5.1
+现金 textbook 5.1
+
+病毒  5.1
+罐装 5.1
+省会 5.1
+季 5.1
+时尚 5.1
+部 5.1
+决定 5.1
+另外 5.1
+终于 5.1
+视频 5.1
+主要 5.1
+商场 5.1
+排队 5.1
+再说 5.1
+旧 5.1
+冰箱 5.1
+售货员 5.1

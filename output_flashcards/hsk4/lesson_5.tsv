@@ -12,6 +12,23 @@
 <font size="7">制冷</font>	<b><font size="5">zhìlěng</font></b><br>refrigeration	textbook,5.1
 <font size="7">效果</font>	<b><font size="5">xiàoguǒ</font></b><br>result<br>effect<br>quality<br>CL:個|个[ge4]	textbook,5.1
 <font size="7">现金</font>	<b><font size="5">xiànjīn</font></b><br>cash	textbook,5.1
+<font size="7">邀请</font>	<b><font size="5">yāoqǐng</font></b><br>to invite<br>invitation<br>CL:個|个[ge4]	textbook,5.2
+<font size="7">葡萄</font>	<b><font size="5">pútáo</font></b><br>grape	textbook,5.2
+<font size="7">艺术</font>	<b><font size="5">yìzhú</font></b><br>art	textbook,5.2
+<font size="7">广告</font>	<b><font size="5">guǎnggào</font></b><br>to advertise<br>a commercial<br>advertisement<br>CL:項|项[xiang4]	textbook,5.2
+<font size="7">味道</font>	<b><font size="5">wèidào</font></b><br>flavor<br>smell<br>hint of	textbook,5.2
+<font size="7">优点</font>	<b><font size="5">yōudiǎn</font></b><br>merit<br>benefit<br>strong point<br>advantage<br>CL:個|个[ge4],項|项[xiang4]	textbook,5.2
+<font size="7">实际</font>	<b><font size="5">shíjì</font></b><br>reality<br>practice<br>practical<br>realistic<br>real<br>actual	textbook,5.2
+<font size="7">考虑</font>	<b><font size="5">kǎolv̀</font></b><br>to think over<br>to consider<br>consideration	textbook,5.2
+<font size="7">保准</font>	<b><font size="5">bǎozhǔn</font></b><br>to guarantee<br>reliable<br>for sure	textbook,5.2
+<font size="7">样子</font>	<b><font size="5">yángzǐ</font></b><br>appearance<br>manner<br>pattern<br>model	textbook,5.2
+<font size="7">年龄</font>	<b><font size="5">niánlíng</font></b><br>(a person's) age<br>CL:把[ba3],個|个[ge4]	textbook,5.2
+<font size="7">浪费</font>	<b><font size="5">làngfèi</font></b><br>to waste<br>to squander	textbook,5.2
+<font size="7">购物</font>	<b><font size="5">gòuwù</font></b><br>shopping	textbook,5.2
+<font size="7">尤其</font>	<b><font size="5">yóuqí</font></b><br>especially<br>particularly	textbook,5.2
+<font size="7">受到</font>	<b><font size="5">shòudào</font></b><br>to receive<br>to suffer<br>obtained<br>given	textbook,5.2
+<font size="7">任何</font>	<b><font size="5">rènhé</font></b><br>any<br>whatever<br>whichever<br>whatsoever	textbook,5.2
+<font size="7">寄</font>	<b><font size="5">jì</font></b><br>to send<br>to mail<br>to entrust<br>to depend on<br>to attach oneself to<br>to live (in a house)<br>to lodge<br>foster (son etc)	textbook,5.2
 <font size="7">病毒</font>	<b><font size="5">bìngdú</font></b><br>virus	5.1
 <font size="7">罐装</font>	<b><font size="5">guànzhuāng</font></b><br>canned (food, coffee etc)	5.1
 <font size="7">省会</font>	<b><font size="5">shěnghùi</font></b><br>provincial capital	5.1
@@ -29,3 +46,42 @@
 <font size="7">旧</font>	<b><font size="5">jìu</font></b><br>old<br>opposite: new 新<br>former<br>worn (with age)	5.1
 <font size="7">冰箱</font>	<b><font size="5">bīngxiāng</font></b><br>icebox<br>freezer cabinet<br>refrigerator<br>CL:臺|台[tai2],個|个[ge4]	5.1
 <font size="7">售货员</font>	<b><font size="5">shòuhuòyuán</font></b><br>salesperson<br>CL:個|个[ge4]	5.1
+<font size="7">减肥</font>	<b><font size="5">jiǎnféi</font></b><br>to lose weight	5.2
+<font size="7">体重</font>	<b><font size="5">tǐzhòng</font></b><br>body weight	5.2
+<font size="7">律师</font>	<b><font size="5">lv̀shī</font></b><br>lawyer	5.2
+<font size="7">发现</font>	<b><font size="5">fāxiàn</font></b><br>to find<br>to discover	5.2
+<font size="7">暖气</font>	<b><font size="5">nuǎnqì</font></b><br>central heating<br>heater<br>warm air	5.2
+<font size="7">感冒</font>	<b><font size="5">gǎnmào</font></b><br>to catch cold<br>(common) cold<br>CL:場|场[chang2],次[ci4]<br>(coll.) to be interested in (often used in the negative)<br>(Tw) to detest<br>can't stand	5.2
+<font size="7">总是</font>	<b><font size="5">zǒngshì</font></b><br>always	5.2
+<font size="7">方便</font>	<b><font size="5">fāngbiàn</font></b><br>convenient<br>suitable<br>to facilitate<br>to make things easy<br>having money to spare<br>(euphemism) to relieve oneself	5.2
+<font size="7">安排</font>	<b><font size="5">ānpái</font></b><br>to arrange<br>to plan<br>to set up<br>arrangements<br>plans	5.2
+<font size="7">做客</font>	<b><font size="5">zuòkè</font></b><br>to be a guest or visitor	5.2
+<font size="7">比较</font>	<b><font size="5">bǐjiào</font></b><br>to compare<br>to contrast<br>comparatively<br>relatively<br>quite<br>comparison	5.2
+<font size="7">精彩</font>	<b><font size="5">jīngcǎi</font></b><br>wonderful<br>marvelous<br>brilliant	5.2
+<font size="7">实际上</font>	<b><font size="5">shíjìshàng</font></b><br>in fact<br>in reality<br>as a matter of fact<br>in practice	5.2
+<font size="7">了解</font>	<b><font size="5">lejiě</font></b><br>to understand<br>to realize<br>to find out	5.2
+<font size="7">并不</font>	<b><font size="5">bìngbù</font></b><br>not at all<br>emphatically not	5.2
+<font size="7">吸引</font>	<b><font size="5">xīyǐn</font></b><br>to attract (interest, investment etc)<br>CL:個|个[ge4]	5.2
+<font size="7">逛街</font>	<b><font size="5">guàngjiē</font></b><br>to take a walk<br>to window-shop<br>to stroll down the street	5.2
+<font size="7">愿意</font>	<b><font size="5">yuànyì</font></b><br>to wish<br>to want<br>ready<br>willing (to do sth)	5.2
+<font size="7">准时</font>	<b><font size="5">zhǔnshí</font></b><br>on time<br>punctual<br>on schedule	5.2
+<font size="7">来说</font>	<b><font size="5">láishuō</font></b><br>Not Found	5.2
+<font size="7">体育馆</font>	<b><font size="5">tǐyùguǎn</font></b><br>gym<br>gymnasium<br>stadium<br>CL:個|个[ge4]	5.3
+<font size="7">眼睛</font>	<b><font size="5">yǎnjīng</font></b><br>eye<br>CL:隻|只[zhi1],雙|双[shuang1]	5.3
+<font size="7">变得</font>	<b><font size="5">biàndé</font></b><br>to become	5.3
+<font size="7">极了</font>	<b><font size="5">jíle</font></b><br>extremely<br>exceedingly	5.3
+<font size="7">活动</font>	<b><font size="5">huódòng</font></b><br>to exercise<br>to move about<br>to operate<br>to use connections (personal influence)<br>loose<br>shaky<br>active<br>movable<br>activity<br>campaign<br>maneuver<br>behavior<br>CL:項|项[xiang4],個|个[ge4]	5.3
+<font size="7">要求</font>	<b><font size="5">yàoqíu</font></b><br>to request<br>to require<br>to stake a claim<br>to ask<br>to demand<br>CL:點|点[dian3]	5.3
+<font size="7">当地</font>	<b><font size="5">dāngdì</font></b><br>local	5.3
+<font size="7">卖家</font>	<b><font size="5">màijiā</font></b><br>seller	5.3
+<font size="7">买家</font>	<b><font size="5">mǎijiā</font></b><br>buyer<br>client	5.3
+<font size="7">首先</font>	<b><font size="5">shǒuxiān</font></b><br>first (of all)<br>in the first place	5.3
+<font size="7">喜爱</font>	<b><font size="5">xǐài</font></b><br>to like<br>to love<br>to be fond of<br>favorite	5.3
+<font size="7">或者</font>	<b><font size="5">huòzhě</font></b><br>or<br>possibly<br>maybe<br>perhaps	5.3
+<font size="7">其次</font>	<b><font size="5">qícì</font></b><br>next<br>secondly	5.3
+<font size="7">认真</font>	<b><font size="5">rènzhēn</font></b><br>conscientious<br>earnest<br>serious<br>to take seriously<br>to take to heart	5.3
+<font size="7">百分之</font>	<b><font size="5">bǎifēnzhī</font></b><br>percent	5.3
+<font size="7">遇到</font>	<b><font size="5">yùdào</font></b><br>to meet<br>to run into<br>to come across	5.3
+<font size="7">解决</font>	<b><font size="5">jiějué</font></b><br>to settle (a dispute)<br>to resolve<br>to solve<br>to dispose of<br>to dispatch	5.3
+<font size="7">留</font>	<b><font size="5">líu</font></b><br>old variant of 留[liu2]	5.3
+<font size="7">藐视</font>	<b><font size="5">miǎoshì</font></b><br>to despise<br>to look down on	5.3

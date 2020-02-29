@@ -28,11 +28,11 @@
 年龄 textbook 5.2
 浪费 textbook 5.2
 
-购物 textbook 5.2
-尤其 textbook 5.2
-受到 textbook 5.2
-任何 textbook 5.2
-寄 textbook 5.2
+购物 textbook 5.3
+尤其 textbook 5.3
+受到 textbook 5.3
+任何 textbook 5.3
+寄 textbook 5.3
 
 病毒  5.1
 罐装 5.1
@@ -92,4 +92,10 @@
 解决 5.3
 留 5.3
 藐视 5.3
-
+交通 5.3
+通知 5.3
+招聘 5.3
+丰富 5.3
+顾客 5.3
+节假日 5.3
+请客 5.3
